@@ -27,7 +27,7 @@ Future iterations will support managed cloud environments.
 
 <img width="603" height="298" alt="image" src="https://github.com/user-attachments/assets/041971e5-178e-46e3-9bf4-fee55bc4cdd8" />
 
-
-<img width="1818" height="906" alt="image" src="https://github.com/user-attachments/assets/94dfad70-7400-483e-885e-08b82ff4e5d1" />
+## ArgoCD Dashboard
+<img width="1821" height="836" alt="image" src="https://github.com/user-attachments/assets/a547b81a-43d6-458d-b416-826c6b81579b" />
 “GitOps engine deployed declaratively, reconciles cluster state automatically”
 
